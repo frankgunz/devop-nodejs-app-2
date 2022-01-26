@@ -1,0 +1,25 @@
+{
+  "name": "notejsapp",
+  "version": "1.0.0",
+  "description": "first try",
+  "main": "look",
+  "scripts": {
+    "test": "gunz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framkhunz/njs-app.git"
+  },
+  "keywords": [
+    "gunz"
+  ],
+  "author": "gunz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/framkhunz/njs-app/issues"
+  },
+  "homepage": "https://github.com/framkhunz/njs-app#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
